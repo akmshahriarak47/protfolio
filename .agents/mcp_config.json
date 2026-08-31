@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "magicuidesign-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@magicuidesign/mcp@latest"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest"
+      ]
+    },
+    "exa": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "exa-mcp-server"
+      ],
+      "env": {
+        "EXA_API_KEY": "5c7b6776-3811-49c9-81e8-be81d7e62fe6"
+      }
+    }
+  }
+}
