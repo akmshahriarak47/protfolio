@@ -1,16 +1,30 @@
-node_modules
-dist
-dist-ssr
-*.local
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production & Build Outputs
+dist/
+dist-ssr/
+*.tsbuildinfo
+
+# Environment & Secrets
 .env
 .env.*
 !.env.example
+*.local
+
+# System & OS
 .DS_Store
 Thumbs.db
 
-# Temporary & Skill Directories
+# Temporary, Caches & Archives
 temp*/
 temp_openclaw/
+.skills_archive/
 .agents/skills/
+.agents/cache/
 .claude/
 my-app/
+*.log
+
