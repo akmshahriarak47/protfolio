@@ -1,0 +1,277 @@
+====================================================================================================
+                        ANTIGRAVITY AI ASSISTANT — EMPLOYEE SKILLS INVENTORY LOG
+====================================================================================================
+Document Type     : Comprehensive Skills Master Log & Capability Matrix
+Location          : Employee Skills/SKILLS_INVENTORY_LOG.txt
+Last Updated      : 2026-09-01
+Total Skill Count : 1,004+ Registered Skills (Workspace & Global Sync)
+Maintenance Status: Active / Continuously Maintained
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+1. EXECUTIVE SUMMARY & TIMELINE
+----------------------------------------------------------------------------------------------------
+This document tracks the complete skill progression of the AI Engineering Assistant ("Employee")
+operating in this workspace. It documents all native (built-in) capabilities, foundational skills
+present before the training sessions, newly learned/installed skills during the setup phases, and
+provides granular capability breakdowns, triggers, and token-cost estimates.
+
+TIMELINE PHASES:
+  [Phase 0: Built-in Platform Core]
+    - Google Antigravity SDK, Firebase Cloud plugins, GCP BigQuery/Dataflow pipelines,
+      Chrome DevTools automation, Science & Bioinformatics plugins.
+  
+  [Phase 1: Foundation & Motion Suite (Pre-Existing / Early Install)]
+    - High-End Visual Design, Taste Design, Emil Kowalski Engineering, 3D/Canvas Suite
+      (Three.js, WebGL, GSAP, Framer Motion, Spline, Rive, Babylon.js, Pixi.js, Locomotive).
+    - Vibe prototyping engine & React Vite Dashboards.
+
+  [Phase 2: Productive Agent Tools & External APIs (Learned / Installed Session 1-2)]
+    - OpenClaw suite (gog Workspace CLI, GitHub CLI, TaskFlow, Sherpa TTS, Diagram Maker, 1Password).
+    - ECC Suite (Frontend Slides, Prompt Optimizer, Skill Comply, Exa Neural Search, Deep Research,
+      Market Research, Social Publisher, Vue Patterns, UI-to-Vue, Quarkus Security, CK Context Keeper).
+    - Official Facebook/React skills (Fix, Test, Verify, Flags, Flow, Feature Flags, Extract Errors).
+    - Playwright suite (@playwright/cli, E2E testing patterns, Page Object Models, Tracing).
+    - Voice AI: ElevenLabs suite (TTS, STT, Music, Sound Effects, Voice Isolator, Dubbing, Agents).
+    - Video AI: HeyGen Video Generation (Prompt-to-video, Avatar generator, Lipsync, Translation).
+    - UI Reasoning: UI/UX Pro Max 2.6 (Design system reasoning engine, font/color/icon catalogs).
+
+  [Phase 3: Enterprise Cybersecurity Suite (Learned / Installed Session 3)]
+    - Mukul975 Anthropic Cybersecurity suite: 840+ defensive, auditing, threat hunting, IAM,
+      cloud hardening, DFIR, and red/purple-team testing skills.
+
+====================================================================================================
+2. DETAILED SKILL CATEGORIES, CAPABILITIES & TOKEN BURN METRICS
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+CATEGORY A: HIGH-END 3D, CANVAS, MOTION & ANIMATION (22 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. threejs-webgl
+   - Capabilities : Interactive 3D scene creation, WebGL shader writing, camera rigging, orbit controls,
+                    lighting setups (PBR), geometry procedural generation, mesh optimization.
+   - Token Burn   : Medium (~800 - 1,500 tokens when invoked).
+
+2. gsap-scrolltrigger
+   - Capabilities : High-performance scroll-driven animations, timeline scrubbing, pinning, batch triggers,
+                    SVG path morphing, smooth-scroll coordination.
+   - Token Burn   : Low-Medium (~600 - 1,200 tokens).
+
+3. react-three-fiber & drei
+   - Capabilities : Declarative Three.js components in React, canvas context wrappers, GLTF model loading,
+                    post-processing bloom/depth-of-field, physics integration.
+   - Token Burn   : Medium (~900 - 1,800 tokens).
+
+4. motion-framer (Framer Motion / Motion)
+   - Capabilities : Layout morphing, exit/enter presence transitions, gesture-based spring physics,
+                    scroll linked transforms, SVG draw animations.
+   - Token Burn   : Low-Medium (~500 - 1,100 tokens).
+
+5. spline-interactive & rive-interactive
+   - Capabilities : Embedding vector runtime animations and 3D Spline interactive models with state machines,
+                    pointer tracking, and custom event dispatching.
+   - Token Burn   : Low (~400 - 800 tokens).
+
+6. Other Motion Skills:
+   - babylonjs-engine, aframe-webxr, playcanvas-engine, pixijs-2d, locomotive-scroll, barba-js,
+     react-spring-physics, animejs, lottie-animations, blender-web-pipeline, substance-3d-texturing.
+   - Combined Burn : Low per specific invocation (~400 - 900 tokens).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY B: UI/UX REASONING, DESIGN SYSTEMS & TASTE (8 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. ui-ux-pro-max
+   - Capabilities : Deterministic Python reasoning engine with 1,900+ Google font pairings, 100+ curated
+                    Phosphor icon sets, calibrated color matrices (OLED Dark, Neomorphism, Glassmorphism,
+                    Fintech, Editorial, SaaS), and automated design-system generator (`search.py`).
+   - Token Burn   : Low overhead (~300 tokens runtime context; CLI scripts run out-of-context).
+
+2. high-end-visual-design & taste-design
+   - Capabilities : Enforces strict agency-level typography, micro-spacing tokens, subtle borders,
+                    glassmorphism backdrops, anti-generic AI aesthetics, dark/light contrast rules.
+   - Token Burn   : Medium (~700 - 1,200 tokens).
+
+3. emil-design-eng & make-interfaces-feel-better
+   - Capabilities : Micro-interaction polish, physics-based springs, layout jitter prevention,
+                    accessible focus rings, keyboard tactile feel, button press compressions.
+   - Token Burn   : Low-Medium (~500 - 900 tokens).
+
+4. baseline-ui & minimalist-ui & design-system
+   - Capabilities : UI deslopping, warm monochrome palettes, Bento-grid layouts, CSS variable tokens.
+   - Token Burn   : Low (~400 - 700 tokens).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY C: FULL-STACK FRAMEWORKS, CODE ARCHITECTURE & STANDARDS (15 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. vue-patterns & ui-to-vue
+   - Capabilities : Vue 3 Composition API, `<script setup>`, Vue 3.5 reactive props destructure,
+                    `useTemplateRef()`, `onWatcherCleanup()`, Pinia Setup Stores, Nuxt SSR data fetching,
+                    batch screenshot-to-Vue conversion (Vant, Element Plus, Ant Design Vue).
+   - Token Burn   : Medium (~800 - 1,400 tokens).
+
+2. facebook/react Suite (fix, react-test, react-verify, react-flags, react-flow, react-feature-flags)
+   - Capabilities : Official React monorepo development patterns, AST error extraction, compiler/runtime
+                    feature flagging, Jest/RTL unit testing, Flow type-checking, CI verification gates.
+   - Token Burn   : Medium-High (~900 - 2,000 tokens during deep audits).
+
+3. quarkus-security
+   - Capabilities : Enterprise Java/Kotlin security hardening, MicroProfile/SmallRye JWT auth, OIDC,
+                    declarative `@RolesAllowed`, Bean Validation, SQL injection prevention, Vault secrets.
+   - Token Burn   : Medium (~750 - 1,300 tokens).
+
+4. react-vite-dashboard & shadcn-ui & modern-web-guidance
+   - Capabilities : Production React + Vite dashboard templates, TanStack Query integration, accessible
+                    Radix UI / shadcn/ui components, modern CSS container queries, `:has()` selectors.
+   - Token Burn   : Low-Medium (~500 - 1,100 tokens).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY D: BROWSER AUTOMATION, TESTING & QA (6 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. playwright-cli (@playwright/cli global & local)
+   - Capabilities : Token-efficient browser automation via CLI (`open`, `snapshot`, `click`, `fill`,
+                    `type`, `hover`, `drag`, `route`, `cookie-list`, `tracing-start`, `video-start`).
+                    Live dashboard monitoring (`playwright-cli show`), interactive review annotator.
+   - Token Burn   : Extremely Low (~150 - 400 tokens per interaction due to compact snapshot refs).
+
+2. e2e-testing
+   - Capabilities : Page Object Model (POM) architecture, auto-wait locators, flaky test quarantine,
+                    trace viewer analysis (`trace.zip`), Web3 wallet mocking, CI/CD GitHub Actions suites.
+   - Token Burn   : Medium (~700 - 1,200 tokens).
+
+3. chrome-devtools & a11y-debugging & memory-leak-debugging
+   - Capabilities : Chrome DevTools MCP automation, accessibility tree evaluation, Core Web Vitals (LCP/INP)
+                    optimization, JavaScript heap snapshot triage, and memory leak diagnosis.
+   - Token Burn   : Medium-High (~800 - 2,200 tokens when loading traces/heaps).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY E: NEURAL SEARCH, DEEP RESEARCH & INTELLIGENCE (4 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. exa-search (Exa AI 2026 API Reference)
+   - Capabilities : Real-time neural web search, semantic code search, domain filtering, dynamic
+                    highlights extraction, structured JSON synthesis (`outputSchema`), auto-crawling.
+   - Token Burn   : Extremely Efficient (~200 - 600 tokens with `highlights: true`, saves 90% context).
+
+2. deep-research & market-research
+   - Capabilities : Multi-step deep synthesis, market sizing, competitor diligence, investor landscape
+                    analysis, multi-source citations, and academic literature extraction.
+   - Token Burn   : High (~1,500 - 3,500 tokens for exhaustive research papers).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY F: MULTIMODAL AUDIO, VOICE & VIDEO AI (9 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. ElevenLabs Voice Suite (text-to-speech, speech-to-text, sound-effects, music, voice-isolator, etc.)
+   - Capabilities : Natural multilingual voice generation in 70+ languages (`eleven_v3`, `eleven_flash_v2_5`),
+                    real-time audio streaming, Scribe v2 speech-to-text, AI music generation, background
+                    noise isolation, voice-to-voice conversion, and multi-track audio dubbing.
+   - Token Burn   : Low-Medium (~500 - 1,000 tokens).
+
+2. heygen (HeyGen AI Video Generation)
+   - Capabilities : Prompt-to-video agent orchestration, photorealistic avatar rendering, voice synchronization,
+                    multilingual video translation with automated lip-syncing, custom video branding.
+   - Token Burn   : Low-Medium (~400 - 900 tokens).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY G: WORKSPACE AUTOMATION, CLI UTILITIES & CLOUD (12 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. gog (Google Workspace CLI)
+   - Capabilities : Full automation of Gmail (search, send, drafts, HTML email), Google Calendar (ISO range
+                    events, colors), Google Sheets (JSON read/write/append), Google Drive & Docs.
+   - Token Burn   : Low (~300 - 700 tokens).
+
+2. github (gh CLI) & gh-issues
+   - Capabilities : Pull request lifecycle (`gh pr create/checks/merge`), issue tracking, action run logs
+                    triage (`gh run view --log-failed`), automated PR fix agents, and API querying.
+   - Token Burn   : Low (~300 - 800 tokens).
+
+3. Productivity Suite (tmux, obsidian, trello, 1password, himalaya, camsnap, eightctl, sonoscli)
+   - Capabilities : Terminal session multiplexing, Markdown vault management, board task sync, secret
+                    credential resolution, IMAP/SMTP emailing, RTSP camera captures, IoT device triggers.
+   - Token Burn   : Low (~250 - 600 tokens per operation).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY H: AGENT PERSISTENCE, REASONING & COMPLIANCE (5 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. ck (Context Keeper v2)
+   - Capabilities : Persistent cross-session project memory. Saves goals, decisions, blockers, and next
+                    steps via deterministic scripts (`init.mjs`, `save.mjs`, `resume.mjs`, `info.mjs`).
+                    SessionStart hook auto-injects compact memory summary (~100 tokens).
+   - Token Burn   : Minimal (~100 tokens on session start; saves thousands in re-explanation).
+
+2. skill-comply & prompt-optimizer
+   - Capabilities : 3-tier behavioral compliance test runner for skills, prompt restructuring for high-fidelity
+                    AI code output, and agent capability benchmarking.
+   - Token Burn   : Medium (~600 - 1,200 tokens during evaluation).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY I: ENTERPRISE CYBERSECURITY & DEFENSIVE/AUDITING SUITE (840+ SKILLS)
+----------------------------------------------------------------------------------------------------
+1. Cloud & Identity Security (180+ skills)
+   - Capabilities : AWS IAM policy privilege escalation detection, CloudTrail anomaly analysis, Azure AD/
+                    Entra ID lateral movement detection, GCP IAM least-privilege audits, Kubernetes RBAC
+                    wildcard enumeration, Zero Trust network architecture (ZTNA) policy configuration.
+   - Token Burn   : Medium (~700 - 1,500 tokens).
+
+2. Threat Hunting, DFIR & Forensics (220+ skills)
+   - Capabilities : Splunk SPL detection engineering, Sigma rules, Volatility3 memory forensics, Hayabusa/
+                    Chainsaw EVTX parsing, LOLBins living-off-the-land detection, YARA pattern development,
+                    C2 beaconing frequency/jitter analysis, ransomware decryption routine reverse engineering.
+   - Token Burn   : Medium-High (~800 - 2,000 tokens).
+
+3. Application Security & Penetration Testing (240+ skills)
+   - Capabilities : OWASP Top 10 API assessments, JWT none-algorithm/algorithm-confusion testing, SSRF
+                    cloud metadata exfiltration verification, SQL injection with SQLMap, GraphQL depth limits,
+                    OAuth2 redirect URI hijacking, Mobile App Frida/Objection security assessments.
+   - Token Burn   : Medium (~750 - 1,600 tokens).
+
+4. AI & Agent Security (40+ skills)
+   - Capabilities : RAG pipeline prompt injection defenses, LLM tool poisoning audits, Garak red-teaming,
+                    model extraction prevention, agentic AI execution boundary verification.
+   - Token Burn   : Medium (~600 - 1,300 tokens).
+
+5. Compliance, Governance & Incident Playbooks (160+ skills)
+   - Capabilities : SSVC vulnerability triage, CVSS v4 scoring, ISO 27001 / SOC2 Type 2 readiness,
+                    SLSA SigStore provenance verification, SBOM analysis, ransomware tabletop simulations.
+   - Token Burn   : Low-Medium (~500 - 1,200 tokens).
+
+----------------------------------------------------------------------------------------------------
+CATEGORY J: SCIENCE, BIOINFORMATICS & DATA PLATFORMS (35 SKILLS)
+----------------------------------------------------------------------------------------------------
+1. Science & Genomics Databases
+   - Capabilities : PubChem molecule structure searches, Protein Data Bank (PDB) 3D coordinate parsing,
+                    AlphaFold confidence evaluation (pLDDT), ChEMBL drug target IC50 queries, gnomAD allele
+                    frequencies, Human Protein Atlas localization, PubMed biomedical literature mining.
+   - Token Burn   : Medium (~600 - 1,400 tokens).
+
+2. Data Engineering & BigQuery Suite
+   - Capabilities : BigQuery SQL cost optimization, Dataform ELT pipelines, Apache Beam Dataflow jobs,
+                    BigQuery ML forecasting, Spark Dataproc clusters, Lakehouse Iceberg catalog federation.
+   - Token Burn   : Medium (~700 - 1,500 tokens).
+
+====================================================================================================
+3. TOKEN BURN EFFICIENCY & COST OPTIMIZATION GUIDE
+====================================================================================================
+
+Skill Tier / Mode            Average Token Load    Optimization Recommendation
+----------------------------------------------------------------------------------------------------
+1. CLI Compact Ref Skills    150 - 400 tokens     Use `playwright-cli`, `gog`, `gh`, `uipro` CLI tools.
+   (Playwright, gog, Exa)                          Pass `--raw` or `--json` to minimize parsing overhead.
+
+2. Deterministic Scripts      100 - 300 tokens     Rely on `ck` hooks and `ui-ux-pro-max` python scripts
+   (Context Keeper, UI Pro)                        which execute locally without inflating LLM context.
+
+3. Standard Design & Specs   600 - 1,200 tokens   Activate on-demand when writing UI components or review.
+
+4. Deep Research & Analysis  1,500 - 3,500 tokens Use `exa-search` highlights to keep context tight;
+                                                   only request full text when deep synthesis is required.
+
+5. Cybersecurity Deep Hunt   1,000 - 2,500 tokens Narrow down to specific artifacts before running broad
+                                                   EVTX/memory log searches.
+
+====================================================================================================
+4. MAINTENANCE PROTOCOL & FUTURE UPDATES
+====================================================================================================
+When new skills are installed or learned in this environment:
+  1. Add the skill name, source package, and date acquired to this log.
+  2. Document the primary capabilities, command syntax, and expected token burn profile.
+  3. Verify dual-synchronization across `.agents/skills/<name>` and `~/.gemini/antigravity/skills/<name>`.
+====================================================================================================

@@ -7,3 +7,10 @@ dist-ssr
 !.env.example
 .DS_Store
 Thumbs.db
+
+# Temporary & Skill Directories
+temp*/
+temp_openclaw/
+.agents/skills/
+.claude/
+my-app/
